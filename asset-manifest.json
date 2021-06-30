@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/wirapratamaa.github.io/static/css/main.45b34e07.chunk.css",
+    "main.js": "/wirapratamaa.github.io/static/js/main.a50bec8a.chunk.js",
+    "main.js.map": "/wirapratamaa.github.io/static/js/main.a50bec8a.chunk.js.map",
+    "runtime-main.js": "/wirapratamaa.github.io/static/js/runtime-main.50a7d4ea.js",
+    "runtime-main.js.map": "/wirapratamaa.github.io/static/js/runtime-main.50a7d4ea.js.map",
+    "static/js/2.67f8ec89.chunk.js": "/wirapratamaa.github.io/static/js/2.67f8ec89.chunk.js",
+    "static/js/2.67f8ec89.chunk.js.map": "/wirapratamaa.github.io/static/js/2.67f8ec89.chunk.js.map",
+    "index.html": "/wirapratamaa.github.io/index.html",
+    "static/css/main.45b34e07.chunk.css.map": "/wirapratamaa.github.io/static/css/main.45b34e07.chunk.css.map",
+    "static/js/2.67f8ec89.chunk.js.LICENSE.txt": "/wirapratamaa.github.io/static/js/2.67f8ec89.chunk.js.LICENSE.txt",
+    "static/media/bac.9a43237b.png": "/wirapratamaa.github.io/static/media/bac.9a43237b.png",
+    "static/media/contact-form.styles.css": "/wirapratamaa.github.io/static/media/background.48c0b661.webp",
+    "static/media/background.f6814621.webp": "/wirapratamaa.github.io/static/media/background.f6814621.webp",
+    "static/media/bootstrap-4.997c463d.svg": "/wirapratamaa.github.io/static/media/bootstrap-4.997c463d.svg",
+    "static/media/css3.8fba365c.svg": "/wirapratamaa.github.io/static/media/css3.8fba365c.svg",
+    "static/media/digital-ocean.744a6973.svg": "/wirapratamaa.github.io/static/media/digital-ocean.744a6973.svg",
+    "static/media/git-icon.c60b7e5a.svg": "/wirapratamaa.github.io/static/media/git-icon.c60b7e5a.svg",
+    "static/media/github.c66b3c5a.svg": "/wirapratamaa.github.io/static/media/github.c66b3c5a.svg",
+    "static/media/heroku.73be03b3.svg": "/wirapratamaa.github.io/static/media/heroku.73be03b3.svg",
+    "static/media/html-5.821ba738.svg": "/wirapratamaa.github.io/static/media/html-5.821ba738.svg",
+    "static/media/javascript.ba40d6a9.svg": "/wirapratamaa.github.io/static/media/javascript.ba40d6a9.svg",
+    "static/media/macOS.e2f7fce7.png": "/wirapratamaa.github.io/static/media/macOS.e2f7fce7.png",
+    "static/media/material-ui-1.fd510ed8.svg": "/wirapratamaa.github.io/static/media/material-ui-1.fd510ed8.svg",
+    "static/media/mssql.18f84630.svg": "/wirapratamaa.github.io/static/media/mssql.18f84630.svg",
+    "static/media/php.5cb43e85.svg": "/wirapratamaa.github.io/static/media/php.5cb43e85.svg",
+    "static/media/profile.ab04a9c7.JPG": "/wirapratamaa.github.io/static/media/profile.ab04a9c7.JPG",
+    "static/media/react-bootstrap.534ba574.svg": "/wirapratamaa.github.io/static/media/react-bootstrap.534ba574.svg",
+    "static/media/react-router.a87b7227.svg": "/wirapratamaa.github.io/static/media/react-router.a87b7227.svg",
+    "static/media/react.add74742.svg": "/wirapratamaa.github.io/static/media/react.add74742.svg",
+    "static/media/slide1.0493867f.jpg": "/wirapratamaa.github.io/static/media/slide1.0493867f.jpg",
+    "static/media/slide2.34da336e.jpg": "/wirapratamaa.github.io/static/media/slide2.34da336e.jpg",
+    "static/media/slide3.7dc54aa1.jpg": "/wirapratamaa.github.io/static/media/slide3.7dc54aa1.jpg",
+    "static/media/styled-components.2e00d138.svg": "/wirapratamaa.github.io/static/media/styled-components.2e00d138.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50a7d4ea.js",
+    "static/js/2.67f8ec89.chunk.js",
+    "static/css/main.45b34e07.chunk.css",
+    "static/js/main.a50bec8a.chunk.js"
+  ]
+}
